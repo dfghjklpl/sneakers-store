@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: antiquewhite;
+}
+.content{
+    width: 1080px;
+    min-height: 100vh;
+    margin: 85 auto;
+    border-radius: 20px;
+    background:wheat;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 55px 60px;
+    border-bottom: 1px solid black;
+}
+
