@@ -22,6 +22,23 @@ body{
     border-bottom: 1px solid black;
     
 }
+.header__logo img {
+    width: 40px;
+    height: 40px;
+  }
+  
+  .header__nav-list {
+    display: flex;
+    list-style: none;
+    column-gap: 32px;
+  }
+  
+  .header__nav-list li {
+    display: flex;
+    align-items: center;
+  }
+
+
 .sneakers-card{
     width: 210px;
     height: 260px;
