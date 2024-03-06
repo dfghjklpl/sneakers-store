@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: yellow;
+    background-color:greenyellow;
 }
 .content{
     width: 1080px;
@@ -20,14 +20,8 @@ body{
     align-items: center;
     padding: 55px 60px;
     border-bottom: 1px solid black;
+    
 }
-
-
-
-
-
-
-
 .sneakers-card{
     width: 210px;
     height: 260px;
